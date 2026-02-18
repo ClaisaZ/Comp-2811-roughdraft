@@ -1,4 +1,4 @@
-# Comms / UX / UI Design Redesign Project Week 1
+# Comms / UX / UI Design Redesign Project - Week 1
 
 ## Project Overview
 

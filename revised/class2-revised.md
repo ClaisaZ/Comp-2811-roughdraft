@@ -1,4 +1,4 @@
-# Comms / UX / UI Design Redesign Project Week 2
+# Comms / UX / UI Design Redesign Project - Week 2
 
 This week was to explore the stages of UX methodology and discuss key usability factors that can influence design decisions. 
 
