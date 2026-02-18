@@ -1,4 +1,4 @@
-# Comms / UX/UI Design Redesign Project Week 4
+# Comms / UX / UI Design Redesign Project Week 4
 
 ## Accomplishment Statements in Business Communications
 

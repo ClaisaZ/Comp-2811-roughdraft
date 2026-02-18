@@ -43,7 +43,7 @@ IF is comprised of several interconnected systems
 - Navigation design - Determines menu type, hierachy, and structure
     - Hierarchy
         - Deep - Few top-level links with many nested pages
-        - Shallow - Mnay top-level links with many nested pages
+        - Shallow - Man y top-level links with many nested pages
     - Labeling - Defines the language style used in menus
     
 - Content inventory - A complete list of site pages and content

@@ -1,4 +1,4 @@
-# Comms / UX/UI Design Redesign Project Week 2
+# Comms / UX / UI Design Redesign Project Week 2
 
 Thr purpose of this week was to cover ... the stages of methodology and usability factors
 

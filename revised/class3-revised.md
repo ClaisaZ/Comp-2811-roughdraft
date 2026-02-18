@@ -9,6 +9,8 @@ This week we focused on applying user-centered design principles to the website 
 - User Stories
 - UX Artifacts
 
+These topics focus on understanding users and translates their needs into design options. Personas, user scenarios, and user stories help developers not assume but have realistic behaviors they can work with. These will help strengthen our user-centered approach when we are tackling the redesign.
+
 
 ## What we did
 

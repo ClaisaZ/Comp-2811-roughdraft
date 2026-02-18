@@ -1,4 +1,4 @@
-# Comms / UX/UI Design Redesign Project Week 3
+# Comms / UX / UI Design Redesign Project Week 3
 
 ## UX/UI Design Week 3 in-class topics
 
