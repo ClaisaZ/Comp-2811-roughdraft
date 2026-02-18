@@ -10,7 +10,7 @@ Our team discussed multiple websties for redesign, including Craigslist, 4chan, 
 
 ## Chosen Website: Magic Stronghold
 
-Magic Stronghold was selected because the current website shows several usability and design problems that go against core principles of UX and UI design. The interface appears visually outdated, navigation structure is not clear. In addition, the visual hierarchy is all over the place, key UX and UI design principles are not applied.
+[Magic Stronghold](https://www.magicstronghold.com/) was selected because the current website shows several usability and design problems that go against core principles of UX and UI design. The interface appears visually outdated, navigation structure is not clear. In addition, the visual hierarchy is all over the place, key UX and UI design principles are not applied.
 
 ## Redesign Goals
 

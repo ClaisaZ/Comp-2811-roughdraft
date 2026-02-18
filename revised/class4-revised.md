@@ -1,4 +1,4 @@
-# Comms / UX/UI Design Redesign Project — Week 4
+# Comms / UX / UI Design Redesign Project Week 4
 
 This week focused on creating clear problem statements to guide the redesign process. We learned that creating effective problem statements requires us to understand the ideal users and clearly define the problem and the purpose of the redesign. We learned a structure approach called 5 W's which help ensure the problem is well scoped and actionable. We also discussed Information Architecture which focuses on organizing and categorizing items in the menu
 
