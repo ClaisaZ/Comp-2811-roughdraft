@@ -1,5 +1,12 @@
-# Business Communication Accomplishment Statements Job Description
+# Business Communication Accomplishment Statements Job Description / Interview / Resume Skills
 
+- AS = Accomplishment Statement
+
+- Each AS is two lines long: what you did, how, end result
+- Each AS should start with an action verb (in past tense if activity is finished ) and the verbs should come from the job description
+- Use a wide variety of action verbs
+- Each AS 
+-
 
 ## Front-End Development (HTML, CSS, JavaScript)
 
@@ -16,7 +23,7 @@
 
 ## Data Structures & Programming Practices
 
-
+- 
 
 ## Git Source Control
 
@@ -27,7 +34,6 @@
 
 
 ## Passion for Technology & Learning 
-
 
 
 
@@ -65,4 +71,44 @@
 
     - Action: I started by pulling the latest changes and reviewing the merge conflicts to understand where the problems were coming from. I spoke with the front-end team members to confirm the problems we were having. We then resolved the conflicts, updated our RESTful routes, and tested everything to make sure everything worked. I also shared these updates during our sprint meetings so the team stayed aligned
 
-    - Result: After these fixes, the application was smoothly integrated and the team was able to catch up to our estimated sprint timeline. We successfully hosted a working web application on time. This experience was vital to me, and helped reinforce the importance of Git fundamentals and communication in Agile team environments. I  
+    - Result: After these fixes, the application was smoothly integrated and the team was able to catch up to our estimated sprint timeline. We successfully hosted a working web application on time. This experience was vital to me, and helped reinforce the importance of Git fundamentals and communication in Agile team environments. 
+
+- Tell me about the most successful team project you have worked on.
+
+    - Situation: One of the most successful team projects was during my full-stack program where we built a web application using Node.js and Express while working in Agile sprints with weekly deadlines.
+
+    - Task: My responsibility was to implement backend routing and ensuring a stable database connection, while also coordinating closely with teammates working on the frontend
+
+    - Action: I structured the backend using RESTful routes for clarity and consistency, and managed environment variables to handle secure database connections. I also made sure to commit frequently to Git to avoid merge conflicts and keep the codebase clean. During sprint meetings, I communicated progress and blockers so the team could stay aligned and adjust when needed.
+
+    - Result: As a result, we delivered a fully functional application on time, with smooth integration between frontend and backend. More importantly, our team was able to collaborate effectively throughout the project, which made development more efficient and reduced major issues during integration. 
+
+
+## Interview Practice
+
+- Tell us about yourself?
+
+    - I’m currently a full-stack web development student at BCIT, where I’ve been working with technologies like JavaScript, Express, EJS, and TypeScript. Through my time at BCIT and passion projects I’ve worked on, I’ve found that I really enjoy working in a team environment, especially in Agile settings, where I can collaborate with teammates, break work into tasks, and work through features together. I got into development because I’ve always been fascinated by how the web works, and I find it fun to build things and seeing them come to life. I tend to get really curious when I’m learning something new, so I like to explore how things work and experiment with them myself. I’ve found I work best by kind of limit testing, trying things out, seeing what breaks, and learning from it. Right now, I’m looking for an opportunity where I can keep pushing myself, learn from more experienced developers, and continue growing in a team environment.
+
+- What is your biggest strength?
+
+    - One of my biggest strengths is how quickly I learn and adapt. Growing up, I was introduced to many activities like sports and music, this made me comfortable picking up new skills and improving them. This mindset carried over to my work at BCIT, where I picked up technologies like express, EJS, TypeScript fairly quickly. But I don't want to just stay at the surface level, I push myself to keep improving. I really believe that the more you learn, the more you realize how much there is still to learn, and that's what keeps me motivated.
+
+- What is your biggest weakness?
+
+    - One weakness I’ve noticed is that because I enjoy learning new things, I can get excited and jump between topics instead of going deep into one area. At BCIT, when I was learning different technologies, I’d often switch between them because I wanted to quickly understand everything at once, but quickly realized I wasn’t always building a strong foundation in each one. Since then, I’ve been focusing more on one thing at a time and trying to really understand it before moving on. This has helped me learn more efficiently.
+
+- 
+
+
+
+## What are you worth? ( value )
+
+- What makes you the top of my salary?
+
+- Demonstrate the value you bring to the company.
+
+
+## What are some questions we should ask?
+
+- What kind of projects would I create?

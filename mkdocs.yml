@@ -21,4 +21,4 @@ markdown_extensions:
   - pymdownx.highlight
   - pymdownx.superfences
 
-docs_dir: revised
+docs_dir: docs
