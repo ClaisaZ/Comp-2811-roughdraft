@@ -98,9 +98,17 @@
 
     - One weakness I’ve noticed is that because I enjoy learning new things, I can get excited and jump between topics instead of going deep into one area. At BCIT, when I was learning different technologies, I’d often switch between them because I wanted to quickly understand everything at once, but quickly realized I wasn’t always building a strong foundation in each one. Since then, I’ve been focusing more on one thing at a time and trying to really understand it before moving on. This has helped me learn more efficiently.
 
-- 
+- What skills and technologies are you the most interested in improving upon or learning that can also bring value to this role and company?
 
+    - I’m particularly interested in learning PHP, since I know it’s widely used in real-world applications like WordPress. While my experience so far is with Node.js and Express, I have a strong foundation in backend concepts and I’m confident I can pick up PHP quickly. I’m also continuing to strengthen my JavaScript and CSS skills daily by building more interactive and responsive interfaces, paying close attention on how users actually experience the application.
 
+- What do you know about us? and Why do you want to work for us?
+
+    - From what I've researched, 0Footprint Tech Services focuses on IT and software solutions for businesses, which include cloud services, and custom application development. What stood out to me was that you're solving real business problems and working closely with clients to solve their problems.
+
+    This really appeals to me because I enjoy building things that people actually use, especially on front-end where user experience matters.
+
+    I also bring strong communication skills from my experience working as a casino dealer, where I had to interact with customers constantly, staying focused under pressure, and paying close attention to detail. That experience helps me better understand how users interact with systems and how the little details matter.
 
 ## What are you worth? ( value )
 
