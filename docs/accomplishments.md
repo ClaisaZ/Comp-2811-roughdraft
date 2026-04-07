@@ -10,7 +10,7 @@
 
 ## Front-End Development (HTML, CSS, JavaScript)
 
-- Designed and developed a responsive magazine-style web application using clean semantic HTML, CSS, and JavaScript to enhance user engagement and deliver an interactive browsing experience across desktop and mobile devices.
+-   
 
 
 ## Back-End Server-Side Development (Node.js)
@@ -88,27 +88,53 @@
 
 - Tell us about yourself?
 
-    - I’m currently a full-stack web development student at BCIT, where I’ve been working with technologies like JavaScript, Express, EJS, and TypeScript. Through my time at BCIT and passion projects I’ve worked on, I’ve found that I really enjoy working in a team environment, especially in Agile settings, where I can collaborate with teammates, break work into tasks, and work through features together. I got into development because I’ve always been fascinated by how the web works, and I find it fun to build things and seeing them come to life. I tend to get really curious when I’m learning something new, so I like to explore how things work and experiment with them myself. I’ve found I work best by kind of limit testing, trying things out, seeing what breaks, and learning from it. Right now, I’m looking for an opportunity where I can keep pushing myself, learn from more experienced developers, and continue growing in a team environment.
+    I’m currently a full-stack web development student at BCIT, where I’ve been working with technologies like JavaScript, TypeScript, Express, and EJS. I also play sports and instruments when I have the time.
+
+    Through both my coursework and personal projects, I’ve developed a strong interest in building web applications and working in team environments, especially in a Agile setting where I can collaborate, break down tasks, and contribute to features.
+
+    I’m naturally curious when learning something new, so I like to experiment, test ideas, and learn by solving problems hands-on. That approach has helped me become more comfortable debugging and understanding how things work.
+
+    Right now, I’m looking for an opportunity where I can continue developing my skills, learn from experienced developers, and contribute to a team.
 
 - What is your biggest strength?
 
-    - One of my biggest strengths is how quickly I learn and adapt. Growing up, I was introduced to many activities like sports and music, this made me comfortable picking up new skills and improving them. This mindset carried over to my work at BCIT, where I picked up technologies like express, EJS, TypeScript fairly quickly. But I don't want to just stay at the surface level, I push myself to keep improving. I really believe that the more you learn, the more you realize how much there is still to learn, and that's what keeps me motivated.
+    My biggest strength is my ability to learn and adapt quickly.
+
+    During my time at BCIT, I’ve had to pick up technologies like JavaScript, TypeScript, and Express in a fast-paced environment and apply them directly in my projects. For example, when working on backend assignments, I was able to quickly understand how to build routes, connect to databases, and troubleshoot issues even when the problems were new to me.
+
+    I’ve also developed this ability through my experience as a casino dealer, including working in high-limit games where I had to stay sharp and perform under pressure.
+
+    Because of that, I’m able to get up to speed quickly and add value early in a team.
 
 - What is your biggest weakness?
 
-    - One weakness I’ve noticed is that because I enjoy learning new things, I can get excited and jump between topics instead of going deep into one area. At BCIT, when I was learning different technologies, I’d often switch between them because I wanted to quickly understand everything at once, but quickly realized I wasn’t always building a strong foundation in each one. Since then, I’ve been focusing more on one thing at a time and trying to really understand it before moving on. This has helped me learn more efficiently.
+    My biggest weakness I have noticed is that I often try to learn too many things at once, instead of going deeper into one area. In a fast paced program like FSWD, I was constantly learning multiple new technologies like TS, Express, and databases at the same time which made me focus more on keeping up rather than mastering each one.
+
+    To improve on this, I have started to focus on one area at a time and practicing it through personal projects. An example of this is that I am spending more time working with JavaScript backend development by building and debugging my own applications
 
 - What skills and technologies are you the most interested in improving upon or learning that can also bring value to this role and company?
 
-    - I’m particularly interested in learning PHP, since I know it’s widely used in real-world applications like WordPress. While my experience so far is with Node.js and Express, I have a strong foundation in backend concepts and I’m confident I can pick up PHP quickly. I’m also continuing to strengthen my JavaScript and CSS skills daily by building more interactive and responsive interfaces, paying close attention on how users actually experience the application.
+    I’m interested in learning PHP, since I know it’s widely used in alot of real-world applications. While my experience so far is with Node.js and Express, I have a strong foundation in backend development and I’m confident I can pick up PHP quickly. I’m also continuing to strengthen my JavaScript and CSS skills daily by building more interactive and responsive interfaces, paying close attention on how users actually experience the application by using user scenarios.
 
 - What do you know about us? and Why do you want to work for us?
 
-    - From what I've researched, 0Footprint Tech Services focuses on IT and software solutions for businesses, which include cloud services, and custom application development. What stood out to me was that you're solving real business problems and working closely with clients to solve their problems.
+    From what I've researched, 0Footprint Tech Services focuses on IT and software solutions for businesses, which include cloud services, and custom application development. What stood out to me was that you're solving real business problems by working closely with clients to solve their problems.
 
-    This really appeals to me because I enjoy building things that people actually use, especially on front-end where user experience matters.
+    This really appeals to me because I enjoy building things that people actually use, especially on the front-end where user experience matters.
 
-    I also bring strong communication skills from my experience working as a casino dealer, where I had to interact with customers constantly, staying focused under pressure, and paying close attention to detail. That experience helps me better understand how users interact with systems and how the little details matter.
+    I also bring strong communication skills from my experience working as a casino dealer, where I had to interact with customers constantly, staying focused under pressure, and paying close attention to detail. That experience helps me better understand how users interact with the system and how the little details matter.
+
+- Why should we hire you?
+
+     I think you should hire me because I’m someone who can learn quickly and contribute in a team environment.
+
+    Through my time at BCIT, I’ve gained hands-on experience with technologies like JavaScript, TypeScript, and Express by building projects.
+
+    I also work well in team settings, especially in Agile environments, where I’m comfortable collaborating, communicating, and breaking down tasks to move projects forward.
+
+    On top of that, I bring a strong work ethic from my experience as a casino dealer, where I had to stay focused and perform under pressure.
+
+    Overall, I’m someone who’s eager to learn, easy to work with, and ready to contribute and grow with the team.
 
 ## What are you worth? ( value )
 
@@ -116,7 +142,8 @@
 
 - Demonstrate the value you bring to the company.
 
-
 ## What are some questions we should ask?
 
-- What kind of projects would I create?
+- What does success look like in this role?
+
+- How does the team support junior developers when they’re learning something new?
