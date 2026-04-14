@@ -1,0 +1,32 @@
+.hover-img {
+  position: relative;
+  display: inline-block;
+  margin-left: 8px;
+  vertical-align: middle;
+}
+
+.hover-img .hover-label {
+  color: #3b82f6;
+  text-decoration: underline;
+  cursor: pointer;
+  font-size: 0.9rem;
+}
+
+.hover-img img {
+  display: none;
+  position: absolute;
+  top: 1.6rem;
+  left: 0;
+  width: 500px;
+  max-width: 500px;
+  height: auto;
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  background: white;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
+  z-index: 999;
+}
+
+.hover-img:hover img {
+  display: block;
+}

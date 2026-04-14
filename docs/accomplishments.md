@@ -59,8 +59,11 @@
 - Tell me about a time you had to work on a team project to meet a deadline.
 
     - Situation: During a team project in the full stack web development program we built a web application using Node.js and express while following weekly Agile sprints and hitting deadlines.
+
     - Task: I was tasked with implementing backend routing and ensuring a proper database connection, while also coordinating with team members working on the front-end and the database.
+
     - Action: I followed RESTful structure when creating GET and POST requests. I also handled database connections using environment variables, while also regularly committing updates to GIT to avoid merge conflicts and keeping the codebase clean. I also updated team members during sprint meetings to keep deadlines in check.
+
     - Result: We successfully deployed a working web application on time, following good practices, and having only a few issues between team members.
 
 - Tell me about a time you faced a challenge or setback that you overcame.
@@ -90,7 +93,7 @@
 
     I’m currently a full-stack web development student at BCIT, where I’ve been working with technologies like JavaScript, TypeScript, Express, and EJS. I also play sports and instruments when I have the time.
 
-    Through both my coursework and personal projects, I’ve developed a strong interest in building web applications and working in team environments, especially in a Agile setting where I can collaborate, break down tasks, and contribute to features.
+    Through both my coursework and personal projects, I’ve developed a strong interest in building web applications and working in team environments, especially in a Agile setting where I can collaborate, break down    tasks, and contribute to features.
 
     I’m naturally curious when learning something new, so I like to experiment, test ideas, and learn by solving problems hands-on. That approach has helped me become more comfortable debugging and understanding how things work.
 
@@ -113,8 +116,7 @@
     To improve on this, I have started to focus on one area at a time and practicing it through personal projects. An example of this is that I am spending more time working with JavaScript backend development by building and debugging my own applications
 
 - What skills and technologies are you the most interested in improving upon or learning that can also bring value to this role and company?
-
-    I’m interested in learning PHP, since I know it’s widely used in alot of real-world applications. While my experience so far is with Node.js and Express, I have a strong foundation in backend development and I’m confident I can pick up PHP quickly. I’m also continuing to strengthen my JavaScript and CSS skills daily by building more interactive and responsive interfaces, paying close attention on how users actually experience the application by using user scenarios.
+in learning PHP, since I know it’s widely used in alot of real-world applications. While my experience so far is with Node.js and Express, I have a strong foundation in backend development and I’m confident I can pick up PHP quickly. I’m also continuing to strengthen my JavaScript and CSS skills daily by building more interactive and responsive interfaces, paying close attention on how users actually experience the application.
 
 - What do you know about us? and Why do you want to work for us?
 
@@ -122,7 +124,7 @@
 
     This really appeals to me because I enjoy building things that people actually use, especially on the front-end where user experience matters.
 
-    I also bring strong communication skills from my experience working as a casino dealer, where I had to interact with customers constantly, staying focused under pressure, and paying close attention to detail. That experience helps me better understand how users interact with the system and how the little details matter.
+    I also bring strong communication skills from my experience working as a casino dealer, where I had to interact with customers constantly, staying focused under pressure, and paying close attention to detail. That experience helps me better understand clients needs and how the little details matter.
 
 - Why should we hire you?
 

@@ -2,15 +2,33 @@
 
 ## Project Overview
 
-This project focuses on analyzing and redesigning an existing website using established UX and UX design principles while also documenting the full design process. The primary goal is to improve usability, accessiblity, visual hierarchy, and the overall user experience. This project aims to really clarify the core purpose of the selected website.
+This project focuses on analyzing and redesigning an existing website using UX and UI design principles, while documenting the full design process.
 
-## Website Options 
+The main goal is to improve:
+- Usability
+- Accessibility
+- Visual hierarchy
+- Overall user experience
+- Clarity of the website's purpose
 
-Our team discussed multiple websties for redesign, including Craigslist, 4chan, and Magic Stronghold. After evaluating the pros and cons of each option, the group ultimately selected Magic Stronghold as the most suitable, for a meaningful redesign project.
+
+## Website Options
+
+As a team, we evaluated several websites for potential redesign:
+
+- Magic Stronghold
+- Craigslist Vancouver
+- 4chan
+
+Each option was considered on its usability, complexity, and potential for improvement.
 
 ## Chosen Website: Magic Stronghold
 
-[Magic Stronghold](https://www.magicstronghold.com/) was selected because the current website shows several usability and design problems that go against core principles of UX and UI design. The interface appears visually outdated, navigation structure is not clear. In addition, the visual hierarchy is all over the place, key UX and UI design principles are not applied.
+### Reason for Selection
+
+[Magic Stronghold](https://www.magicstronghold.com/) was selected because the current website shows several usability and design problems that go against core principles of UX and UI design. The interface appears visually outdated, navigation structure is not clear. In addition, the visual hierarchy is all over the place, and key UX/UI design principles are not applied.
+
+In addition, the purpose of the website is not clearly communicated. Users may be unsure whether the main focus is purchasing products or participating in events, which also affects how they interact with the web site.
 
 ## Redesign Goals
 
@@ -18,11 +36,15 @@ The redeisgn will focus on simplifying navigation, improving layout consistency,
 
 ## Target Audience
 
-Magic Stronghold serves a targeted audience, this audience is interested in fantasy and gaming, including trading card games, board games, model kits, and card tournaments. The redesign will consider both new visitors and returning members.
+The primary audience includes users interested in trading card games, board games, and hobby-related products, as well as those who participate in community events such as tournaments.
+
+The redesign will consider both new users, who require clear guidance and structure, and returning users, who expect fast and efficient access to information.
 
 ## UX / UI Principles Applied 
 
-The redesign process will use what we have learned so far in the program, including usability principles, consistency and standards, user control and freedom, aesthetic and minimalist design and accessibility.
+The initial analysis was guided by key UX/UI principles such as consistency and standards, visibility of system status, user control and freedom, and aesthetic and minimalist design. Accessibility was also considered to ensure the website can be used by a wider range of users.
+
+These principles can help identify usability issues and will continue to guide future design decisions.
 
 ## Tools Used
 
@@ -30,11 +52,6 @@ The redesign process will use what we have learned so far in the program, includ
 - VS Code
 - Markdown
 
-## Team Members
-- Clayton liang
-- Derek Lee
-- Ky Thai
-
 ## Conclusion
 
-This redesign project aims to improve user experience by applying modern UX and UI practices. Our team expects to produce a more usable, accessible and visually appealing website
+Week 1 focused on identifying usability issues and defining the direction of the redesign. This early analysis provides a strong start for the future of the project, including personas, design exploration, and iterative improvements.

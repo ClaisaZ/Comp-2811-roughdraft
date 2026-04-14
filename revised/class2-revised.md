@@ -14,7 +14,7 @@ The next stage is **Ideate**, this stage focuses on brainstorming and creating a
 
 The next stage is **Prototype**, this is where we take the most promising solutions and we test them. This gives an idea to the team on how a solution might function in a live environment.
 
-The last stage is **Test**, which involves releasing the prototype to users and getting feedback.
+The final stage is **Test**, which involves releasing prototypes to users and getting feedback and to identify areas they can improve.
 
 ## 7 Usability Factors
 
@@ -35,21 +35,21 @@ A strong example we disussed in class the the UX design of a traditional glass k
 
 Over time, designers redesigned the product into a plastic squeeze bottle that also had the cap at the bottom. This redesign improved user experience greatly by allowing better control.
 
-This example demonstrated to us how UX design can make a simple everyday product many times better.
+This example showed how even small UX design can make a simple everyday product many times better.
 
 ## Applying the UX Methodology
 
 After analyzing the ketchup bottle, the design process can be linked to the UX methodology:
 
-Empathize — Users experienced frustration with glass bottles.
+**Empathize** — Users experienced frustration with glass bottles.
 
-Define — The product was messy, inconsistent, and required effort.
+**Define** — The product was messy, inconsistent, and required effort.
 
-Ideate — Designers explored new materials and dispensing options.
+**Ideate** — Designers explored new materials and dispensing options.
 
-Prototype — The plastic squeeze bottle design was developed.
+**Prototype** — The plastic squeeze bottle design was developed.
 
-Test — Users quickly confirmed the new design was faster, cleaner, easier, and just better.
+**Test** — Users quickly confirmed the new design was faster, cleaner, easier, and just better.
 
 ## Usability Factors
 
@@ -69,10 +69,16 @@ Valuable — Reduces waste and improves satisfaction.
 
 ## UX in Everyday Products
 
-UX design is not just limited to websites and applications, it also works for everyday products like ketchup bottles and remote controls. Well designed products feel intuitive and require little effort from users. In contrast, poorly designed products often cause frustration. 
+UX design is not just limited to websites and applications, it also works for everyday products like ketchup bottles and remote controls. 
+
+Well designed products feel intuitive and require little effort from users. In contrast, poorly designed products often cause frustration. 
 
 ## The Relationship Between UX/UI and Business Success
 
 Effective UX/UI design has a direct impact on business performance. Products are designed well and easy to use have higher user satisfaction, which lead to higher user retention.
 
 While poor UX/UI design can decrease revenue, lower user retention, and negative branding.
+
+## Insight
+
+These concepts will be applied in the redesign of the Magic Stronghold website in the following weeks.

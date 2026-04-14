@@ -1,23 +1,30 @@
 # Comms / UX / UI Design Redesign Project - Week 4
 
-This week focused on creating clear problem statements to guide the redesign process. We learned that creating effective problem statements requires us to understand the ideal users and clearly define the problem and the purpose of the redesign. We learned a structure approach called 5 W's which help ensure the problem is well scoped and actionable. We also discussed Information Architecture which focuses on organizing and categorizing items in the menu
+This week focused on creating clear problem statements to guide the redesign process. We learned that creating effective problem statements requires us to understand the ideal users and clearly define the problem and the purpose of the redesign. 
+
+We also learned a structure approach called 5 W's which help ensure the problem is well scoped and actionable. 
+
+We also discussed Information Architecture which focuses on organizing and categorizing items in the menu
 
 ## Problem Statement
 
-A strong problem statement should include a concise paragraph describing the issue the redesigned website, product, or service aims to resolve.
+A strong problem statement clearly defines the issue that the redesigned website aims to solve. It should be concise, focused, and based on user needs rather than assumptions.
+
+Creating effective problem statements helps guide design decisions and ensures the redesign stays aligned with both user and business goals.
 
 ## The 5 W's
 
-- Who — Who is using the site?
+- **Who** — Who is using the site?
 
-- What — What is the site offering, and what should be the main focus?
+- **What** — What is the site offering, and what should be the main focus?
 
-- Where — Where will the experience occur (primarily online)?
+- **Where** — Where will the experience occur (primarily online)?
 
-- When — When will users need this solution (immediate vs. future use)?
+- **When** — When will users need this solution (immediate vs. future use)?
 
-- Why — Why is the redesign necessary?
+- **Why** — Why is the redesign necessary?
 
+This helps ensure problems are clearly scoped and easier to tackle during the design process.
 
 ## Feature List
 
@@ -31,7 +38,9 @@ The feature list defines the project scope and outlines what will be implemented
 
 ## Ideation
 
-This phase focuses on creating as many potential solutions as possible in a safe non-judgmental environment. A class activity we did to accomplish this was **Crazy 8's**. We were tasked with rapid fire wireframe sketching, where we only had 30 seconds to sketch certain interfaces. The goal was to encourage creative thinking.
+This phase focuses on creating as many potential solutions as possible in a safe non-judgmental environment. 
+
+A class activity we did to accomplish this was **Crazy 8's**. We were tasked with rapid fire wireframe sketching, where we only had 30 seconds to sketch certain interfaces. The goal was to encourage creative thinking.
 
 
 ## Information Architecture
@@ -54,6 +63,8 @@ IF is comprised of several interconnected systems
 
 As a group, we practiced information architecture by categorizing the following items into approprite top-level menu headings:
 
+Items included:
+
 - Accessibility
 - Audition Info
 - Contact Us
@@ -69,5 +80,10 @@ As a group, we practiced information architecture by categorizing the following 
 - Visitor Questions (FAQ)
 - Volunteering
 
-This shows us that organizing information architecture is important to let the websites content become structured in a clear, logical, and user friendly way. This also correlates with the business perspective since effective IA can increase user retention, which can increase revenue.
+This activity demonstrated how proper organization improves clarity and usability. Well structured information architecture allows users to navigate more efficiently and supports the user experience.
 
+It also connects to business goals, as clear navigation can improve user retention and engagement.
+
+## Key insight
+
+ This week highlighted the imporatnce of clearly defining our problems before designing solutions.
