@@ -1,4 +1,4 @@
-# Comms / UX / UI Design Redesign Project - Week 3
+# Comms / UX / UI Design Redesign Project - Class 3
 
 This week focused on applying user-centered design principles to the website redesign. The goal was to design based on real user needs rather than personal assumptions.
 
