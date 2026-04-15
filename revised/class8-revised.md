@@ -1,4 +1,4 @@
-# Comms / UX / UI Design Redesign Project — Class 8
+# Comms / UX / UI Design Redesign Project - Class 8
 
 This week focuses on live user testing using our low-fidelity wireframes. The goal was to observe how users interact with the design and identify usability issues without providing guidance.
 

@@ -7,6 +7,7 @@ theme:
     - navigation.tracking
     - navigation.expand
     - navigation.top
+    - navigation.footer
     - search.highlight
     - content.tabs.link
     - content.code.copy
