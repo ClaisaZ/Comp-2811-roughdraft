@@ -27,3 +27,16 @@ docs_dir: revised
 
 extra_css:
   - stylesheets/extra.css
+
+nav:
+  - Home: index.md
+  - Class 1: class1-revised.md
+  - Class 2: class2-revised.md
+  - Class 3: class3-revised.md
+  - Class 4: class4-revised.md
+  - Class 5: class5-revised.md
+  - Class 6: class6-revised.md
+  - Class 7: class7-revised.md
+  - Class 8: class8-revised.md
+  - Class 9: class9-revised.md
+  - Final: ClassF-Revised.md
