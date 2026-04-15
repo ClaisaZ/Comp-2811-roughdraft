@@ -53,19 +53,19 @@ After analyzing the ketchup bottle, the design process can be linked to the UX m
 
 ## Usability Factors
 
-Useful — Dispenses ketchup efficiently.
+**Useful** — Dispenses ketchup efficiently.
 
-Usable — Requires less effort and strength.
+**Usable** — Requires less effort and strength.
 
-Findable — Opening cap is easy to locate.
+**Findable** — Opening cap is easy to locate.
 
-Credible — Trusted and reliable function.
+**Credible** — Trusted and reliable function.
 
-Desirable — More modern and convenient.
+**Desirable** — More modern and convenient.
 
-Accessible — Easier for children and users with limited strength.
+**Accessible** — Easier for children and users with limited strength.
 
-Valuable — Reduces waste and improves satisfaction.
+**Valuable** — Reduces waste and improves satisfaction.
 
 ## UX in Everyday Products
 

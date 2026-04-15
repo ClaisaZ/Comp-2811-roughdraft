@@ -11,7 +11,6 @@ The main goal is to improve:
 - Overall user experience
 - Clarity of the website's purpose
 
-
 ## Website Options
 
 As a team, we evaluated several websites for potential redesign:
