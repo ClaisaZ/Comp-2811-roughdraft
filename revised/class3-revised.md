@@ -1,6 +1,6 @@
 # Comms / UX / UI Design Redesign Project - Class 3
 
-This week focused on applying user-centered design principles to the website redesign. The goal was to design based on real user needs rather than personal assumptions.
+This week focused on applying [user-centered design](https://baymard.com/learn/user-centered-design) principles to the website redesign. The goal was to design based on real user needs rather than personal assumptions.
 
 This approach reinforces the importance of UX in creating products that are both functional and aligned with business goals.
 
@@ -16,7 +16,7 @@ These concepts focus on understanding users and translating their needs into mea
 
 ## What we did
 
-During class, the team created multiple personas to represent different types of users who may visit the Magic Stronghold website. Each persona included key details such as goals, behaviors, frustrations, and background information.
+During class, the team created multiple personas to represent different types of users who may visit the [Magic Stronghold Website](https://www.magicstronghold.com/). Each persona included key details such as goals, behaviors, frustrations, and background information.
 
 Creating these personas helped shift the focus from designing based on assumptions to designing based on user needs.
 
@@ -33,3 +33,9 @@ This ensures that design improvements are intentional and based on real user nee
 User focused design is a core principle in UX/UI design and is widely used in our industry. Creating personas, user stories, and scenarios helps us as developers make design decisions that are based on real user needs rather than assumptions.
 
 These methods are important not only for this project, but also for developing effective and user-focused products in real-world applications.
+
+## Key Insight
+
+This week showed how important designing real user needs rather than assumptions. Creating personas and user stories helped understand user goals, behaviors, and frustrations.
+
+This approach ensures that design decisions are intentional and grounded in how users actually interact with the website.

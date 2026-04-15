@@ -8,11 +8,11 @@ Three users participated in the testing process, each completing two main tasks 
 
 ## Main User Scenario/Flow Tasks
 
-1. Subscribing to a product and recieving updates.
+**User Scenario 1:** Subscribing to a product and recieving updates.
 
 User optionally logs in -> User chooses product in navigation -> Selects product of choice -> Clicks subscribe to updates -> Log in if needed -> Confirmation window
 
-2. Registering for a in-person event.
+**User Scenario 2:** Registering for a in-person event.
 
 User optionally logs in -> User clicks on events -> Selects event of choice -> clicks on more details -> register/book event -> Log in if needed -> Confirmation window
 
@@ -30,7 +30,7 @@ Sam succesffuly navigated through the events section and completed the task with
 
 However, after completeing the process, there was no confirmation or success message, which created uncertainty about whether their action was completed.
 
-**User 2 - Ria
+**User 2 - Ria**
 
 Task 1 (Product / Subscription):
 Ria navigated to the products section and seleceted a product correctly.

@@ -48,3 +48,9 @@ To improve and fix these issues our team will try to apply these changes:
 - Group related actions together or simply try to make them closer to improve usability
 - Ensure all buttons follow a consistent design structure
 - Finishing touches on confirmation windows, white space and balance.
+
+## Key Insight
+
+This week showed that even when the overall design is strong, small details such as alignment, spacing, and consistency have a big impact on the final user experience. Feedback from in-person testing and review showed areas that were not immediately obvious during design.
+
+By fixing these details, the redesign becomes more polished, intuitive, and visually consistent, showing us the importance of having good structure in the process.

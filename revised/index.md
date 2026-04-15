@@ -49,7 +49,8 @@ These problems make it harder for users to look for products, find events, and e
 
 ## Project Goals
 
-The redesign is focusing on creating a more user-friendly exerience by:
+The redesign is focused on creating a more user-friendly exerience by:
+
 - Simplifying and improving navigation.
 - Creating consistent layouts across pages.
 - Enhancing visual hierarchy and readability.

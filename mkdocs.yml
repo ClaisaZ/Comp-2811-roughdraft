@@ -10,6 +10,9 @@ theme:
     - search.highlight
     - content.tabs.link
     - content.code.copy
+  icon:
+    previous: fontawesome/solid/arrow-left
+    next: fontawesome/solid/arrow-right
 
 markdown_extensions:
   - attr_list

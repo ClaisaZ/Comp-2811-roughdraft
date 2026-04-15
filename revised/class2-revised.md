@@ -79,6 +79,8 @@ Effective UX/UI design has a direct impact on business performance. Products are
 
 While poor UX/UI design can decrease revenue, lower user retention, and negative branding.
 
-## Insight
+## Key Insight
 
-These concepts will be applied in the redesign of the Magic Stronghold website in the following weeks.
+This week showed that effective UX design follows a structured process rather than guessing. The UX principles and usability factors provide a clear way for understanding user needs and guiding design decisions.
+
+Applying this process makes sure that designs are not only visually appealing, but also functional, user-focused, and effective.

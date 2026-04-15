@@ -51,6 +51,8 @@ These principles can help identify usability issues and will continue to guide f
 - VS Code
 - Markdown
 
-## Conclusion
+## Key Insight
 
-This week focused on identifying usability issues and defining the direction of the redesign. This early analysis provides a strong start for the future of the project, including personas, design exploration, and iterative improvements.
+This week focused on identifying usability issues and defining the direction of the redesign. 
+
+This early analysis will provide a strong start for the future of the project, including personas, design exploration, and iterative improvements.

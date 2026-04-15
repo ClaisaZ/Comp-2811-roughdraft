@@ -27,6 +27,7 @@ This process helps find unexpected user actions and scenarios where the design m
 We will first develop low-fidelity wireframes, working our way into developing our high-fidelity wireframe designs.
 
 High-fidelity designs include:
+
 - Typography(fonts)
 - Color schemes
 - Visual styling(layout, spacing, images)
@@ -49,6 +50,7 @@ Understanding color is important for creating visually effective and user friend
 ## Color Requirements
 
 For the high-fidelity design, the following requirements must be met:
+
 - Use a **Three-Color** scheme:
     - Primary color (most used)
     - Secondary color(supporting)

@@ -30,3 +30,28 @@
 .hover-img:hover img {
   display: block;
 }
+
+.hover-color {
+  position: relative;
+  cursor: pointer;
+}
+
+.hover-label {
+  text-decoration: underline;
+}
+
+.color-box {
+  position: absolute;
+  top: 25px;
+  left: 0;
+  width: 80px;
+  height: 80px;
+  border-radius: 8px;
+  display: none;
+  border: 1px solid #ccc;
+  box-shadow: 0 4px 10px rgba(0,0,0,0.2);
+}
+
+.hover-color:hover .color-box {
+  display: block;
+}
