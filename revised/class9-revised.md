@@ -1,10 +1,10 @@
-# Comms / UX / UI Design Redesign Project — Week 10
+# Comms / UX / UI Design Redesign Project — Class 9
 
 **High-Fidelity Wireframes**
 
 This week focused on developing high-fidelity wireframes by applying finalized color schemes, typography, and visual styling to the redesign.
 
-
+This week we also did in-person user testing and a review with Chris, which helped us get direct feedback and see what we needed to improve.
 
 These designs build on previous wireframes and incorporate improvements based on user testing results.
 
