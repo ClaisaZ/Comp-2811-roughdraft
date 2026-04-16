@@ -5,6 +5,7 @@
 This project focuses on analyzing and redesigning an existing website using UX and UI design principles, while documenting the full design process.
 
 The main goal is to improve:
+
 - Usability
 - Accessibility
 - Visual hierarchy

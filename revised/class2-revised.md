@@ -2,7 +2,7 @@
 
 This week was to explore the stages of UX methodology and discuss key usability factors that can influence design decisions. 
 
-## Five stages of UX Methodlogy
+## Five stages of UX Methodology
 
 UX methodology provides an understanding to the user and helps develop effective design strategies. Having a clear process helps developers create a more user-focused application.
 
